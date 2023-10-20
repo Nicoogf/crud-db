@@ -22,6 +22,8 @@ function App() {
       });
   }
 
+  console.log("Hola mundo")
+
 
   return (
     
