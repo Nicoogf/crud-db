@@ -22,7 +22,7 @@ function App() {
       });
   }
 
-  console.log("Hola mundo")
+  console.log("Servidor funcionando")
 
 
   return (
