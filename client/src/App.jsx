@@ -22,7 +22,7 @@ function App() {
       });
   }
 
-  console.log("Servidor funcionando")
+  console.log("Servidor funcionandocon mysql")
 
 
   return (
