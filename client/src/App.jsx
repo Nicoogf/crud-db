@@ -8,7 +8,7 @@ function App() {
   const [ edad , setEdad ] = useState( 0 ) ;
   const [ pais , setPais ] = useState( "" ) ;
   const [ cargo , setCargo ] = useState( "" ) ;
-  const [ experiencia , setExperiencia ] = useState( 0 ) ;
+  const [ experiencia2 , setExperiencia ] = useState( 0 ) ;
 
   const add = () =>{
       axios.post("http://localhost:3001/create" , {
