@@ -22,7 +22,7 @@ function App() {
       });
   }
 
-  console.log("Servidor funcionandocon mysql")
+  console.log("Servidor funcionando con mySQL nuevo")
 
 
   return (
